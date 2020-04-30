@@ -1,3 +1,7 @@
-import React from "react"
+import React from "react";
+import Main from "../components/main";
 
-export default () => <div>Hello world!</div>
+
+export default () => (
+    <Main />
+)
